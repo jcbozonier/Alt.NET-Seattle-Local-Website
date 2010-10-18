@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Alt.Net Seattle Home</title>
+<link href="altnetseattle.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.style1 {
+	border-width: 0;
+}
+</style>
+</head>
+
+<body>
+
+<div class="bodyContents">
+	<h1><a href="http://2010febaltnetseattle.eventbrite.com/">
+	<img alt="Register for Feb 20, 2010 Meeting" src="2010FebBanner.png" class="style1" /></a><img alt="Alt.Net Seattle" src="AltNetSeattleBanner.png" /><img alt="Seattle" src="Seattle.png" /></h1>
+	An open community working to improve software development on the Microsoft platform. Come learn, share, and grow.
+	<div class="Announcement">
+		<h2>February Meeting</h2>
+		<ul>
+			<li>Date: Saturday, 2/20/2010 </li>
+			<li>Time: 10am - 5pm</li>
+			<li>Place: 
+			<a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=digipen,+bellevue&amp;sll=37.0625,-95.677068&amp;sspn=38.911557,86.572266&amp;ie=UTF8&amp;hq=digipen,&amp;hnear=Bellevue,+WA&amp;ll=47.663017,-122.137842&amp;spn=0.016188,0.042272&amp;z=14&amp;iwloc=A&amp;cid=4257560803758110405">
+				Digipen Institute of Technology</a></li>
+			<li>Registration: 
+				<a href="http://2010febaltnetseattle.eventbrite.com/">
+				http://2010febaltnetseattle.eventbrite.com/</a></li>
+		</ul>
+	</div>
+
+	<div class="Announcement">
+		<h2>2010 Seattle Alt.Net Conference</h2>
+		<ul>
+			<li>Dates: April 9-11, 2010</li>
+			<li>Place: TBA</li>
+			<li>Format: Tutorials, Open Spaces</li>
+			<li>Registration: TBA</li>
+		</ul>
+	</div>
+	<div class="Announcement">
+		<h2>Next Monthly Meeting</h2>
+		<ul>
+			<li>Date: Saturday, 1/16/2010 </li>
+			<li>Time: 10am - 4pm</li>
+			<li>Place:
+			<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=320+Westlake+Ave,+Seattle,+WA&amp;sll=37.0625,-95.677068&amp;sspn=38.911557,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=320+Westlake+Ave+N,+Seattle,+King,+Washington+98109&amp;ll=47.621456,-122.33806&amp;spn=0.00405,0.010568&amp;t=h&amp;z=17">
+			Microsoft South Lake Union, 320 Westlake Ave, Seattle, WA</a></li>
+			<li>Format: Open Space, so you don&#39;t have to stay the whole time but 
+			come early to help set agenda</li>
+		</ul>
+	</div>
+	<div>
+		<h2>Find us:</h2>
+		<ul>
+			<li><a href="http://groups.google.com/group/altnetseattle">Google Group</a></li>
+			<li><a href="http://www.facebook.com/group.php?gid=111345965570">Facebook 
+			Group</a></li>
+		</ul>
+	</div>
+	<div class="footer">
+	    <a href="http://validator.w3.org/check?uri=referer">
+	    	<img src="http://www.w3.org/Icons/valid-xhtml10-blue"
+	        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+	    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+    		<img src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+    		    alt="Valid CSS!" height="31" width="88"/></a>
+  	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12206271-3");
+pageTracker._setDomainName(".altnetseattle.org");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>
